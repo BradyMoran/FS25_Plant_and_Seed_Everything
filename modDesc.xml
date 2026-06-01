@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="108">
+    <author>JM Mods</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Global Seeder Patch</en>
+    </title>
+<description>
+<en>Allows all seeders and planters to plant any crops. Works with mod maps and equipment, including custom crops.</en>
+<de>Erlaubt es allen Sämaschinen und Pflanzmaschinen, beliebige Feldfrüchte anzupflanzen. Funktioniert mit Mod-Karten und Geräten, einschließlich benutzerdefinierter Feldfrüchte.</de>
+<fr>Permet à tous les semoirs et planteuses de semer n'importe quelle culture. Fonctionne avec les cartes et les équipements moddés, y compris les cultures personnalisées.</fr>
+</description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true" />
+
+    <extraSourceFiles>
+        <sourceFile filename="GlobalSeedersandPlanters.lua" />
+    </extraSourceFiles>
+</modDesc>
